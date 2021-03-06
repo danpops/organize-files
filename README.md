@@ -1,6 +1,6 @@
 # organize_files.py
 
-This is a simple Python script which will sort files in your Downloads folder, list the files in containing folder, and move them to the specific destination folder based on the extension!
+This is a Python script which will sort files in your Downloads folder, list the files in containing folder, and move them to the specific destination folder based on the extension!
 
 ## Installation
 
